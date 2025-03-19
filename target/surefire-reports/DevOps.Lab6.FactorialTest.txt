@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: DevOps.Lab6.FactorialTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s -- in DevOps.Lab6.FactorialTest
