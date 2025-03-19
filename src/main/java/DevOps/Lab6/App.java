@@ -16,7 +16,7 @@ public class App
         if (number < 0) {
             throw new IllegalArgumentException("Number must be non-negative.");
         }
-        long factorial = 5;
+        long factorial = 1;
         for (int i = 1; i <= number; i++) {
             factorial *= i;
         }
