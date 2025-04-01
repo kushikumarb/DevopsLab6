@@ -42,6 +42,6 @@ public class AppTest
     
     public void testFact5()
     {
-        assertEquals("Factorial of 5 must be 120", 120, this.app.calculateFactorial(5));
+        assertEquals("Factorial of 5 must be 120", 12, this.app.calculateFactorial(5));
     }
 }
